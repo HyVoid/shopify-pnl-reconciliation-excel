@@ -21,10 +21,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          # Cache is disabled to avoid "Dependencies lock file is not found" error when package-lock.json is absent
+          # Cache is disabled to avoid "Dependencies lock file is not found" error
 
       - name: Install Dependencies
-        run: npm install
+        # --legacy-peer-deps avoids the npm v10 Arborist "edgesOut of null" bug when resolving dependency tree
+        run: npm install --legacy-peer-deps --no-audit --no-fund
 
       - name: Build Application
         run: npm run build
