@@ -11,7 +11,7 @@
 > **Start your monthly e-commerce profit audit in seconds.** No signup. No software installation. 100% free to use.
 >
 > - [🌐 Launch the Free Interactive Shopify P&L Web Calculator in Your Browser (Instant Sandbox Preview)](./)
-> - [📥 Download the Repeatable Multi-Store Shopify P&L & Bank Reconciliation Excel Workbook (.xlsx)](#)
+> - [📥 Download the Repeatable Multi-Store Shopify P&L & Bank Reconciliation Excel Workbook (.xlsx)](https://theseusworkshop.com/l/wtrch)
 
 Both the interactive web calculator and the downloadable Microsoft Excel workbook solve the same core e-commerce accounting challenge: transforming fragmented **Shopify CSV sales exports**, **SKU unit economics**, **multi-currency FX expenses (USD, EUR, AED)**, and **Wise/bank payout records** into an audit-ready, traceable **monthly management P&L statement**. While the browser version offers an instant zero-setup sandbox, the Excel template is engineered for permanent offline financial record-keeping, automated month-end close calculations, and granular transaction-level reconciliation.
 
@@ -64,7 +64,7 @@ Once validation checks pass, inspect **`06_PL_Calculation`** for side-by-side st
 
 ### Step 4: Download the Reusable Excel Template for Permanent Monthly Archiving
 **Action:** Once you have validated how the engine catches hidden profit leaks in the browser preview, transition to the offline spreadsheet for your real business records.  
-👉 **[Download the Full Shopify Dual-Store P&L Excel Workbook (.xlsx)](#)** to save local monthly snapshots, customize your SKU catalog permanently, keep sensitive financial data 100% offline, and roll your baseline numbers forward every month-end in under 15 minutes.
+👉 **[Download the Full Shopify Dual-Store P&L Excel Workbook (.xlsx)](https://theseusworkshop.com/l/wtrch)** to save local monthly snapshots, customize your SKU catalog permanently, keep sensitive financial data 100% offline, and roll your baseline numbers forward every month-end in under 15 minutes.
 
 ---
 
