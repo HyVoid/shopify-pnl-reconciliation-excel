@@ -1,3 +1,5 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+
 # Shopify Dual-Store P&L Analysis & Financial Reconciliation Engine (Free Excel Template & Web Calculator)
 <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/838d93dd-8e60-48e3-ba3b-24747fcb717f" />
 
@@ -10,8 +12,8 @@
 
 > **Start your monthly e-commerce profit audit in seconds.** No signup. No software installation. 100% free to use.
 >
-> - [🌐 Launch the Free Interactive Shopify P&L Web Calculator in Your Browser (Instant Sandbox Preview)](./)
-> - [📥 Download the Repeatable Multi-Store Shopify P&L & Bank Reconciliation Excel Workbook (.xlsx)](https://theseusworkshop.com/l/wtrch)
+> - [🌐 Launch the Free Interactive Shopify P&L Web Calculator in Your Browser (Instant Sandbox Preview)](https://hyvoid.github.io/shopify-pnl-reconciliation-excel/
+> - [📥 Download the Repeatable Multi-Store Shopify P&L & Bank Reconciliation Excel Workbook (.xlsx)](https://theseusworkshop.com/l/wtrch?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-pnl-reconciliation-excel)
 
 Both the interactive web calculator and the downloadable Microsoft Excel workbook solve the same core e-commerce accounting challenge: transforming fragmented **Shopify CSV sales exports**, **SKU unit economics**, **multi-currency FX expenses (USD, EUR, AED)**, and **Wise/bank payout records** into an audit-ready, traceable **monthly management P&L statement**. While the browser version offers an instant zero-setup sandbox, the Excel template is engineered for permanent offline financial record-keeping, automated month-end close calculations, and granular transaction-level reconciliation.
 
@@ -48,7 +50,7 @@ Both the interactive web calculator and the downloadable Microsoft Excel workboo
 This system is engineered as a **repeatable month-end close workflow** rather than a disposable calculator. Follow this 4-step tutorial to audit your numbers—starting with a zero-risk browser test and transitioning to the permanent Excel template for ongoing monthly bookkeeping.
 
 ### Step 1: Test the Logic & Configure Reporting Parameters (`01_Control_Settings`)
-**Action:** [Launch the Free Interactive Browser Calculator](./) to explore the pre-loaded sample data, or open the `01_Control_Settings` tab in your workbook.  
+**Action:** [Launch the Free Interactive Browser Calculator](https://hyvoid.github.io/shopify-pnl-reconciliation-excel/ to explore the pre-loaded sample data, or open the `01_Control_Settings` tab in your workbook.  
 Define your **reporting month**, **comparison baseline month**, **base reporting currencies (USD/EUR)**, **monthly FX conversion rates**, **shared OPEX allocation split** (default example: `60% / 40%`), **reconciliation tolerance threshold** (default: `5.00`), and **net profit margin warning triggers**.
 
 ### Step 2: Import Shopify Sales CSVs, SKU Landed Costs & Bank Statements
@@ -64,7 +66,7 @@ Once validation checks pass, inspect **`06_PL_Calculation`** for side-by-side st
 
 ### Step 4: Download the Reusable Excel Template for Permanent Monthly Archiving
 **Action:** Once you have validated how the engine catches hidden profit leaks in the browser preview, transition to the offline spreadsheet for your real business records.  
-👉 **[Download the Full Shopify Dual-Store P&L Excel Workbook (.xlsx)](https://theseusworkshop.com/l/wtrch)** to save local monthly snapshots, customize your SKU catalog permanently, keep sensitive financial data 100% offline, and roll your baseline numbers forward every month-end in under 15 minutes.
+👉 **[Download the Full Shopify Dual-Store P&L Excel Workbook (.xlsx)](https://theseusworkshop.com/l/wtrch?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-pnl-reconciliation-excel)** to save local monthly snapshots, customize your SKU catalog permanently, keep sensitive financial data 100% offline, and roll your baseline numbers forward every month-end in under 15 minutes.
 
 ---
 

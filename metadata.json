@@ -1,6 +1,0 @@
-{
-  "name": "Shopify Dual-Store P&L & Reconciliation Engine",
-  "description": "Standalone SaaS application for dual-store Shopify monthly P&L calculation, Bundle BOM cost rollup, multi-currency conversion, and Bank/Wise cross-reconciliation.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
