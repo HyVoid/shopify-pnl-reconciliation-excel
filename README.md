@@ -1,6 +1,6 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Shopify Dual-Store P&L Analysis & Financial Reconciliation Engine (Free Excel Template & Web Calculator)
+# Shopify Dual-Store P&L Analysis & Financial Reconciliation Engine (Excel Template & Free Web Calculator)
 <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/838d93dd-8e60-48e3-ba3b-24747fcb717f" />
 
 
